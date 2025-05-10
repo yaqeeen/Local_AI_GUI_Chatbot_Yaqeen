@@ -1,4 +1,4 @@
-# Local_AI_GUI_Chatbot_YourName
+# Local_AI_GUI_Chatbot_Yaqeen
 
 
  🤖 مشروع شات بوت محلي باستخدام Python وOllama
